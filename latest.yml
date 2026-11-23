@@ -1,0 +1,8 @@
+version: 6.3.2
+files:
+  - url: myappx-desktop-setup-6.3.2-win.exe
+    sha512: mXObOC46jcKSQqC+hA/InN92/+nZveOh4oOCIiegjvpF+BLNSLXJp0gEqNc6GD+3eZB0taXb3xYP+Tpw0bWhnw==
+    size: 139078847
+path: myappx-desktop-setup-6.3.2-win.exe
+sha512: mXObOC46jcKSQqC+hA/InN92/+nZveOh4oOCIiegjvpF+BLNSLXJp0gEqNc6GD+3eZB0taXb3xYP+Tpw0bWhnw==
+releaseDate: '2026-11-15T13:52:32.696Z'

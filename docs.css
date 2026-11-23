@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #f4f6f8;
+    color: #1a1d21;
+    line-height: 1.6;
+}
+
+main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 32px 20px 48px;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+a {
+    color: #1c58d9;
+}
+
+code {
+    font-family: Consolas, "Courier New", monospace;
+}
